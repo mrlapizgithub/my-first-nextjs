@@ -1,0 +1,21 @@
+{
+  "name": "my-first-nextjs",
+  "version": "1.0.0",
+  "description": "This is my awesome next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "next.js"
+  ],
+  "author": "Junhao Zhang",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.3.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}

@@ -1,0 +1,17 @@
+.nav {
+  background: orange;
+  padding: 10px;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: 200%;
+  margin:0;
+}
+.nav a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+.nav a:hover {
+  background: rgba(255, 255, 255, 0.5);
+  color: red;
+}

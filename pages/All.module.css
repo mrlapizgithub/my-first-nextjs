@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Comic Neue";
+  src: url(ComicNeue-Bold.ttf);
+}
+.all {
+  font-family: sans-serif;
+}
+.all h1{
+  font-family: "Comic Neue", cursive;
+}
+.all small {
+  font-family: serif;
+}
+.all small a {
+  color: #0084ff;
+  text-decoration: underline;
+}
+.all small a:hover {
+  color: #004d94;
+  text-decoration: none;
+}
